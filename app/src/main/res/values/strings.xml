@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P03 PS</string>
+    <string name="ttamt">Total Amount</string>
+    <string name="ttpax">Total Pax</string>
+    <string name="ttbill">Total Bill :$</string>
+    <string name="each">Each Pays: $</string>
+    <string name="split">Split</string>
+    <string name="reset">Reset</string>
+</resources>
